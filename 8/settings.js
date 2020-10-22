@@ -2,8 +2,8 @@
 jDrupal.settings = {
 
   // Drupal site settings.
-  sitePath: '',
-  basePath: '/',
+  sitePath: '/drupalgap_demo',
+  basePath: 'https://alanmatzumiya.github.io',
 
   // Set to true to see debug info printed to the console.log().
   debug: true
